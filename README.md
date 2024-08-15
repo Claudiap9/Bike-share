@@ -20,7 +20,8 @@ Previous 12month data from 2024_07 to 2023_08
 ## Analysis
 Below is the link to the process of data cleaning, manipulation and analysis performed in R.
 
-[CLick Here](https://rpubs.com/claudiap9/1211134)
+[R Script file with Visualizations](https://rpubs.com/claudiap9/1211134)
+
 
 
 
