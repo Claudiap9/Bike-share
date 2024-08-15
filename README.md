@@ -17,4 +17,11 @@ Moreno has assigned the first question.
 Data Sources used
 Previous 12month data from 2024_07 to 2023_08
 
+##Analysis
+Below is the link to the process of data cleaning, manipulation and analysis performed in R.
+
+file:///Users/claudiapark/Documents/GitHub/Bike-share/Case-Study-1_Report.html
+
+
+
 
