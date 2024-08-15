@@ -148,3 +148,4 @@ member_casual_by_season <- all_trips_v2 %>%
   mutate(percentage = number_of_rides / sum(number_of_rides) * 100)
 
 
+
