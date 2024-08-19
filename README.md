@@ -1,4 +1,4 @@
-# Cyclistic Bike-share analysis case study 
+# Cyclistic Bike-share Analysis Case Study 
 For the final step of the Google Analytics Certifiation, I will be recording my Capstone Project to showcase the skills I have learned. In the case study, I am a Junior Analyst working for a company Cyclistic, a bike share company in Chicago. The team want to understand how casual riders and annual members use Cyclistic bikes differently.
 GOAL: Design a new marketing strategy to convert casual riders into annual memberships.
 
@@ -14,15 +14,16 @@ The director of Marketing Moreno, provided three question to guide the future ma
 
 Moreno has assigned the first question.
 
-Data Sources used
-Previous 12month data from 2024_07 to 2023_08
+> Data Sources used
+>> Previous 12month data from 2024_07 to 2023_08
+
 
 ## Analysis
 Below is the link to the process of data cleaning, manipulation and analysis performed in R.
 
 [R Script file with Visualizations](https://rpubs.com/claudiap9/1211134)
 
-**1. How do annual members and casual riders use Cyclistic bikes differently?**
+**How do annual members and casual riders use Cyclistic bikes differently?**
 
 Ride Length (Duration)
 - Ride duration is overall longer in Casual Riders and is especially longer on **Saturdays and Sundays**
@@ -34,10 +35,12 @@ Number of rides
 - Both Casual and Member have high number of highers during Summer Season
 - Number of Casual riders are concentrated on weekends while Memebers are concentrated on weekdays
 
+  
 
 ## Insights
 
 <img width="1022" alt="image" src="https://github.com/user-attachments/assets/3ac7991f-68a0-4f05-99dc-1e04004bccbe">
+
 
 Implications
 - Casual riders likely ride for long durations as they are using single-ride passes and are seen more on weekends as leisurely rides
